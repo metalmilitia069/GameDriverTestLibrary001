@@ -61,6 +61,7 @@ namespace ClassLibrary1
         //[Test]
         //public void Test1()
         //{
+        //    api.EnableHooks(HookingObject.ALL);
         //    var buttonName = api.GetObjectFieldValue<string>(ELEMENTS_LIB, "MESSAGE_BUTTON_ID", 30);
         //    api.WaitForObject(buttonName);
         //    api.ClickObject(MouseButtons.LEFT, buttonName, 10);
